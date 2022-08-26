@@ -1,0 +1,16 @@
+.container{
+   width: 900px;
+   margin: 0px auto;
+   padding: 0px 20px;
+}
+
+body{
+   background-color: cornflowerblue;
+}
+
+.title{
+   margin-top: 80px;
+   font-weight: 800;
+   font-size: 40px;
+   color: #b00d0db7;
+}
